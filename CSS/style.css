@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    color: chartreuse;
+}
+nav{
+    background-color: coral;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+    color: darkblue;
+}
+.content{
+    overflow: hidden;
+text-align: center;
+}
+.left-content{
+float: left;
+background-color: darkgreen;
+height: 400px;
+width: 20%;
+
+}
+.right-content{
+float: right;
+background-color: darkolivegreen;
+height: 400px;
+width: 80%;
+}
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+    height: 200px;
+    color: slateblue;
+    width: 100%;
+}
